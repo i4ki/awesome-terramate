@@ -8,7 +8,7 @@ Collection of interesting materials related to [Terramate](https://github.com/te
 - [Blog posts](https://blog.terramate.io/)
 - [Playground](https://play.terramate.io/)
 
-  # Editor
+# Editor
 
   - [VSCode Extension](https://github.com/terramate-io/vscode-terramate)
   - [Vim Plugin](https://github.com/terramate-io/vim-terramate)
